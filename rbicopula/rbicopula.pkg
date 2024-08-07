@@ -1,5 +1,15 @@
-d 'DEA': Data envelopment analysis
+d 'rbicopula': Estimate recursive bivariate copula regressions Use rbicopula With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f integrate.ado
+f integrate.sthlp
+f lintegrate.mlib
+f mf_integrate.sthlp
+f rbicopula.ado
+f rbicopula.sthlp
+f rbicopula_lf1.ado
+f rbicopula_margdec.ado
+f rbicopula_margdec.sthlp
+f rbicopula_p.ado
+f rbicopula_postestimation.sthlp
+f rbicopula_tmeffects.ado
+f rbicopula_tmeffects.sthlp
