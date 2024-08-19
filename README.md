@@ -1,6 +1,8 @@
 # rbicopula
 Estimate recursive bivariate copula regressions Use rbicopula With STATA 18
 
+https://www.youtube.com/watch?v=DyeO60jdoys
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
